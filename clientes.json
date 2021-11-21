@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nome": "Diego Suarez",
+    "endereco": "Rua Pedro",
+    "cep": "96300-000",
+    "nascimento": "06-02-1992",
+    "telefone": "99703-9674",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 2,
+    "nome": "Julia Ocariz",
+    "endereco": "Rua Avenida",
+    "cep": "99300-000",
+    "nascimento": "13-012-1999",
+    "telefone": "99703-3254",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 3,
+    "nome": "Denise Rocha",
+    "endereco": "Rua Castelho",
+    "cep": "56300-000",
+    "nascimento": "29-06-1991",
+    "telefone": "99703-6348",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 4,
+    "nome": "Palmira Munhoz",
+    "endereco": "Rua General",
+    "cep": "15300-000",
+    "nascimento": "03-03-1997",
+    "telefone": "99703-9687",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 5,
+    "nome": "Maria Neves",
+    "endereco": "Rua Pedras",
+    "cep": "84300-000",
+    "nascimento": "18-05-1964",
+    "telefone": "99703-8473",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 6,
+    "nome": "Leonardo Rios",
+    "endereco": "Rua Bulevar",
+    "cep": "32300-000",
+    "nascimento": "17-08-1978",
+    "telefone": "99703-1216",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 7,
+    "nome": "Carlos Martinez",
+    "endereco": "Rua 18 de Julio",
+    "cep": "26300-000",
+    "nascimento": "21-06-1990",
+    "telefone": "99563-6831",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 8,
+    "nome": "Sebastian Suarez",
+    "endereco": "Rua Mercedes",
+    "cep": "78300-000",
+    "nascimento": "06-11-1980",
+    "telefone": "99703-6785",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 9,
+    "nome": "Maximiliano Ocariz",
+    "endereco": "Rua Rio Branco",
+    "cep": "50300-000",
+    "nascimento": "26-07-1998",
+    "telefone": "99863-6331",
+    "email": "prueba@gmail.com"
+  },
+
+  {
+    "id": 10,
+    "nome": "Joao Marques",
+    "endereco": "Rua Suarez Da Silva",
+    "cep": "65300-000",
+    "nascimento": "26-06-1990",
+    "telefone": "99703-6331",
+    "email": "prueba@gmail.com"
+  }
+]

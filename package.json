@@ -1,0 +1,16 @@
+{
+  "name": "projeto_integrador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node app.js"
+  },
+  "author": "Diego Suarez Da Silva Ocariz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
